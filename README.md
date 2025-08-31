@@ -18,7 +18,7 @@ Telegram бот для проведения опросов и генерации
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/username/telegram-bot.git>
 cd telegram-bot
 ```
 
